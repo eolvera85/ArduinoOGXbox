@@ -1,0 +1,66 @@
+{
+	"packages": [
+		{
+			"name": "ogxbox",
+			"maintainer": "Ervin Olvera",
+			"websiteURL": "https://github.com/eolvera85",
+			"help": {
+				"online": "https://github.com/eolvera85/ArduinoOGXbox"
+			},
+			"platforms": [
+				{
+					"name": "OGXbox AVR Boards",
+					"architecture": "avr",
+					"version": "1.0.0",
+					"category": "Contributed",
+					"url": "https://github.com/eolvera85/ArduinoOGXbox/releases/ArduinoOGXbox-1.0.0.zip",
+					"archiveFileName": "ArduinoOGXbox-1.0.0.zip",
+					"checksum": "SHA-256:c7ff1e8a899f64b1f249cd4b926aa5177a34c24a3cbce794549b9fa315b1aa82",
+					"size": "2845689",
+					"help": {
+						"online": "https://github.com/eolvera85/ArduinoOGXbox"
+					},
+					"boards": [
+						{
+							"name": "Arduino Yun w/ OGXbox"
+						},
+						{
+							"name": "Arduino Leonardo w/ OGXbox"
+						},
+						{
+							"name": "Arduino Leonardo ETH w/ OGXbox"
+						},
+						{
+							"name": "Arduino Micro w/ OGXbox"
+						},
+						{
+							"name": "Arduino Esplora w/ OGXbox"
+						},
+						{
+							"name": "LilyPad Arduino USB w/ OGXbox"
+						},
+						{
+							"name": "Arduino Robot Control w/ OGXbox"
+						},
+						{
+							"name": "Arduino Robot Motor w/ OGXbox"
+						},
+						{
+							"name": "Adafruit Circuit Playground 32u4 w/ OGXbox"
+						},
+						{
+							"name": "Arduino Yun Mini w/ OGXbox"
+						},
+						{
+							"name": "Arduino Industrial 101 w/ OGXbox"
+						},
+						{
+							"name": "Linino One w/ OGXbox"
+						}
+					],
+					"toolsDependencies": []
+				}
+			]
+		}
+	]
+}
